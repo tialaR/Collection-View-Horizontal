@@ -10,7 +10,7 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--View Controller-->
+        <!--Collection View Horizontal-->
         <scene sceneID="tne-QT-ifu">
             <objects>
                 <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="CollectionViewHorizontal" customModuleProvider="target" sceneMemberID="viewController">
@@ -64,7 +64,7 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
-                    <navigationItem key="navigationItem" id="MgJ-9h-1Nc"/>
+                    <navigationItem key="navigationItem" title="Collection View Horizontal" id="MgJ-9h-1Nc"/>
                     <connections>
                         <outlet property="collectionView" destination="9aH-Is-Lpq" id="q63-zp-HnN"/>
                     </connections>
